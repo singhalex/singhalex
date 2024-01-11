@@ -1,4 +1,7 @@
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
 ### Hi there 👋
+
 
 My name is Alex Singh. I am a motivated, self-taught web developer looking to expand my understanding of programming and design. Every day is a new opportunity to learn something new and build on my existing skills. 
 
